@@ -1,0 +1,4 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+Qwen2.5-VL
+paper2read
